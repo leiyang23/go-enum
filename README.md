@@ -9,7 +9,7 @@ experience.
 package main
 
 import (
-	"github/leiyang23/go-enum"
+	"github.com/leiyang23/go-enum"
 	"encoding/json"
 	"fmt"
 )
